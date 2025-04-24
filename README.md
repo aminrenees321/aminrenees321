@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [[[lambent-malasada-8f6714.netlify.app](https://github.com/aminrenees321/Portfolio)](https://github.com/aminrenees321/Portfolio)](Portfolio)
+- 👨‍💻 All of my projects are available at [[[lambent-malasada-8f6714.netlify.app](https://github.com/aminrenees321/Portfolio)]
 
 - 📝 I regularly write articles on [https://dev.to/dashboard](https://dev.to/dashboard)
 
